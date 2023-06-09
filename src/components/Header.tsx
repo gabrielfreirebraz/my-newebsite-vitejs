@@ -9,9 +9,9 @@ export const Header = () => {
   return (
 
     <>
-      <img src={imageLogo} /> 
-      <br/>
-      <p className={styles.mytitle}>ola projeto</p>
+      <div className={styles.header}>
+        <img src={imageLogo} /> 
+      </div>
     </>
   )
 }
