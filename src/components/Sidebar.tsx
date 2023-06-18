@@ -13,6 +13,7 @@ export const Sidebar = () => {
         </div> 
 
         <strong>Gabriel Freire Braz</strong>
+        <p>Software Developer</p>
       </aside>        
     </>
   );
