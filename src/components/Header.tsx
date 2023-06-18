@@ -10,7 +10,8 @@ export const Header = () => {
 
     <>
       <div className={styles.header}>
-        <img src={imageLogo} /> 
+        <h1>Gabz.Dev</h1>
+        <img src={"https://cdn-icons-png.flaticon.com/128/9867/9867157.png"} /> 
       </div>
     </>
   )
