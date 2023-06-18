@@ -3,6 +3,7 @@
 import './global.css'
 import {Header} from './components/Header';
 import {Sidebar} from './components/Sidebar';
+import { Container } from './components/Container';
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
     <>
         <Header></Header>
         <Sidebar></Sidebar>
+        <Container></Container>
     </>
   )
 }
